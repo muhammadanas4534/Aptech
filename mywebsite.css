@@ -1,0 +1,40 @@
+.button{
+    background-color:rgb(40, 37, 37);
+color: white;
+font-size:larger;
+float:right;
+font-weight: 500;
+padding: 2%;
+padding-left: 5%;
+padding-right: 5%;
+}
+.student{
+background-color: orange;
+font-size:xx-large;
+font-weight: 500;
+float: left;
+}
+.icons{
+    font-size:xx-large;
+font-weight: 500;
+float: left;
+}
+p{
+    font-weight: 600;
+    font-display: inherit;
+}
+.object-fit-contain{
+    width: 400px;
+    height: 300px;
+    float: left; 
+}
+.video{
+    margin: 0%;
+    padding: 0%;
+}
+.col-md-12{
+    font-size: 50px;
+    text-align: center;
+    text-justify: auto;
+    font-weight: 800;
+}
